@@ -1,0 +1,10 @@
+site_name: 如何操作維基百科
+nav:
+    - '如何存取': 'access.md'
+    - '維基語法': 'wikitext.md'
+    - '方針指引': 'policy'
+    - '訪問維基百科': 'https://zh.wikipedia.org/'
+
+theme:
+    name: mkdocs
+    locale: zh_CN
